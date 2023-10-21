@@ -1,2 +1,2 @@
-# A.-Sereja-and-Dima
+# A.-Sereja-and-Dima //two pointer
 TWO pointer 
